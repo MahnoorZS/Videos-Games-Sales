@@ -1,6 +1,6 @@
 # Videos Games Sales Dashboard
 
-<u>MS Excel Project</u>
+## Obejective
 
 The objective of this dashboard is to provide a comprehensive overview of the gaming company's sales performance from 2015 to 2020. This dashboard aims to:
 1. **Track Sales Metrics:** Monitor total games sold and total sales revenue across different regions, including North America, Europe, and Japan.
