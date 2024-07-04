@@ -1,6 +1,6 @@
 # Videos Games Sales Dashboard 
 <p>https://1drv.ms/f/s!AhBPgcYooeD7nHIK46IWqkgdqoN4?e=VaHiGS</p>
-<p>https://1drv.ms/x/s!AhBPgcYooeD7nWrhwPUmToxE_B0U?e=EzUl0Q</p>
+<p>Please ensure M=macros are enable on excel for the macros to work on this excel workbook.</p>
 
 ## Obejective
 
