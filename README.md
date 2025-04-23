@@ -1,4 +1,4 @@
-# Videos Games Sales Dashboard 
+# Video Games Sales Dashboard 
 <p>https://1drv.ms/f/s!AhBPgcYooeD7nHIK46IWqkgdqoN4?e=VaHiGS</p>
 <p>Please ensure macros are enable on excel for the macros to work on this excel workbook.</p>
 
